@@ -1,0 +1,6 @@
+bcrypt==4.2.0
+blazingapi==0.0.16
+click==8.1.7
+colorama==0.4.6
+gunicorn==22.0.0
+packaging==24.1
